@@ -17,6 +17,7 @@
 			onlyThirdPartyProviders={true}
             appearance={{ theme: ThemeSupa }}
             theme='dark'
+            additionalData={{ }}
 		/>
 	</div>
 </div>
