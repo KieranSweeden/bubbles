@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>User Management</title>
+	<title>Bubbles</title>
 </svelte:head>
 
 <div class="row flex-center flex">
